@@ -1,0 +1,337 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">netmanager.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">netmanager</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+   <value key="buildDirectory" type="QString">/home/stronghill/workspace/qt1/netmanager</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-ZcODmwJuUs,guid=53c89163aa1a1dcd548bc1d14bb9bf94</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString">GS_LIB=/home/stronghill/.fonts</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/stronghill/.gtkrc-2.0::/home/stronghill/.kde4/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/stronghill/.gtkrc::/home/stronghill/.kde4/share/config/gtkrc</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/home/stronghill</value>
+    <value type="QString">HOSTNAME=stronghill</value>
+    <value type="QString">JAVA_HOME=/home/stronghill/jdk1.5.0_22</value>
+    <value type="QString">KDEDIRS=/opt/kde4</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=500</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.1/lib/qtcreator:/opt/kde4/lib</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=stronghill</value>
+    <value type="QString">MAIL=/var/spool/mail/stronghill</value>
+    <value type="QString">MAVEN_HOME=/home/stronghill/maven221</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/opt/kde4/bin:/usr/lib/qt4/bin:/usr/lib/qt4/bin/:/opt/kde4/bin/:/home/stronghill/maven221/bin:/home/stronghill/jdk1.5.0_22/bin:/usr/kerberos/bin:/usr/local/bin:/usr/bin:/bin:/usr/games:/usr/local/sbin:/usr/sbin:/sbin:/home/stronghill/bin</value>
+    <value type="QString">PKG_CONFIG_PATH=:/usr/lib/pkgconfig:/usr/lib/pkgconfig</value>
+    <value type="QString">PWD=/home/stronghill</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/include</value>
+    <value type="QString">QTLIB=/lib</value>
+    <value type="QString">QT_PLUGIN_PATH=/home/stronghill/.kde4/lib/kde4/plugins/:/opt/kde4/lib/kde4/plugins/</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3646,unix/unix:/tmp/.ICE-unix/3646</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">USER=stronghill</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XCURSOR_PATH=/opt/kde4/share/icons::~/.icons:/usr/share/icons:/usr/share/pixmaps:/usr/X11R6/lib/X11/icons</value>
+    <value type="QString">XCURSOR_THEME=Oxygen_Black</value>
+    <value type="QString">XDG_DATA_DIRS=/opt/kde4/share:/usr/share:/usr/local/share</value>
+    <value type="QString">XDG_SESSION_COOKIE=5cc3f53b405a8af8913a5be94b6120f2-1270464403.874175-1311927040</value>
+    <value type="QString">XDM_MANAGED=method=classic</value>
+    <value type="QString">XMODIFIERS=@im=fcitx</value>
+    <value type="QString">XORG_CONFIG=--prefix=/usr --sysconfdir=/etc --localstatedir=/var --datadir=/usr/lib</value>
+    <value type="QString">XORG_PREFIX=/usr</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/stronghill/workspace/netmanager/netmanager.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/lib/qt4/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/stronghill/workspace/netmanager</value>
+   <value key="buildConfiguration" type=""></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-ZcODmwJuUs,guid=53c89163aa1a1dcd548bc1d14bb9bf94</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString">GS_LIB=/home/stronghill/.fonts</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/stronghill/.gtkrc-2.0::/home/stronghill/.kde4/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/stronghill/.gtkrc::/home/stronghill/.kde4/share/config/gtkrc</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/home/stronghill</value>
+    <value type="QString">HOSTNAME=stronghill</value>
+    <value type="QString">JAVA_HOME=/home/stronghill/jdk1.5.0_22</value>
+    <value type="QString">KDEDIRS=/opt/kde4</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=500</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.1/lib/qtcreator:/opt/kde4/lib</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=stronghill</value>
+    <value type="QString">MAIL=/var/spool/mail/stronghill</value>
+    <value type="QString">MAVEN_HOME=/home/stronghill/maven221</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/opt/kde4/bin:/usr/lib/qt4/bin:/usr/lib/qt4/bin/:/opt/kde4/bin/:/home/stronghill/maven221/bin:/home/stronghill/jdk1.5.0_22/bin:/usr/kerberos/bin:/usr/local/bin:/usr/bin:/bin:/usr/games:/usr/local/sbin:/usr/sbin:/sbin:/home/stronghill/bin</value>
+    <value type="QString">PKG_CONFIG_PATH=:/usr/lib/pkgconfig:/usr/lib/pkgconfig</value>
+    <value type="QString">PWD=/home/stronghill</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/include</value>
+    <value type="QString">QTLIB=/lib</value>
+    <value type="QString">QT_PLUGIN_PATH=/home/stronghill/.kde4/lib/kde4/plugins/:/opt/kde4/lib/kde4/plugins/</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3646,unix/unix:/tmp/.ICE-unix/3646</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">USER=stronghill</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XCURSOR_PATH=/opt/kde4/share/icons::~/.icons:/usr/share/icons:/usr/share/pixmaps:/usr/X11R6/lib/X11/icons</value>
+    <value type="QString">XCURSOR_THEME=Oxygen_Black</value>
+    <value type="QString">XDG_DATA_DIRS=/opt/kde4/share:/usr/share:/usr/local/share</value>
+    <value type="QString">XDG_SESSION_COOKIE=5cc3f53b405a8af8913a5be94b6120f2-1270464403.874175-1311927040</value>
+    <value type="QString">XDM_MANAGED=method=classic</value>
+    <value type="QString">XMODIFIERS=@im=fcitx</value>
+    <value type="QString">XORG_CONFIG=--prefix=/usr --sysconfdir=/etc --localstatedir=/var --datadir=/usr/lib</value>
+    <value type="QString">XORG_PREFIX=/usr</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/stronghill/workspace/netmanager</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CLASSPATH=/usr/java/jdk1.5.0_22/lib/rt.jar:.</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-8rOadO8naS,guid=f8c68ea89244ea20bb108ac34b4daf5e</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DESKTOP_STARTUP_ID=</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString">GS_LIB=/home/stronghill/.fonts</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/stronghill/.gtkrc-2.0::/home/stronghill/.kde4/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/stronghill/.gtkrc::/home/stronghill/.kde4/share/config/gtkrc</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/home/stronghill</value>
+    <value type="QString">HOSTNAME=stronghill</value>
+    <value type="QString">JAVA_FONTS=/usr/share/fonts:/usr/share/fonts/ttf</value>
+    <value type="QString">JAVA_HOME=/usr/java/jdk1.5.0_22</value>
+    <value type="QString">JDK_VERSION=jdk1.5.0_22</value>
+    <value type="QString">KDEDIRS=/opt/kde4</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=500</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">LANG=zh_CN.GB18030</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/stronghill/qtcreator121/lib/qtcreator:/opt/kde4/lib</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LIBXCB_ALLOW_SLOPPY_LOCK=1</value>
+    <value type="QString">LOGNAME=stronghill</value>
+    <value type="QString">MAIL=/var/spool/mail/stronghill</value>
+    <value type="QString">MAVEN_OPTS=-Xms1024m -Xmx1024m</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/opt/kde4/bin:/usr/lib/qt4/bin:/usr/lib/qt4/bin/:/opt/kde4/bin/:/usr/java/jdk1.5.0_22/bin:/home/stronghill/apache-maven-2.2.1/bin:/usr/kerberos/bin:/usr/java/jdk1.5.0_22/bin:/home/stronghill/apache-maven-2.2.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/games:/usr/local/sbin:/usr/sbin:/sbin:/home/stronghill/bin</value>
+    <value type="QString">PKG_CONFIG_PATH=:/usr/lib/pkgconfig:/usr/lib/pkgconfig</value>
+    <value type="QString">PWD=/home/stronghill</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/include</value>
+    <value type="QString">QTLIB=/lib</value>
+    <value type="QString">QT_PLUGIN_PATH=/home/stronghill/.kde4/lib/kde4/plugins/:/opt/kde4/lib/kde4/plugins/</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3571,unix/unix:/tmp/.ICE-unix/3571</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">USER=stronghill</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XCURSOR_PATH=/opt/kde4/share/icons::~/.icons:/usr/share/icons:/usr/share/pixmaps:/usr/X11R6/lib/X11/icons</value>
+    <value type="QString">XCURSOR_THEME=Oxygen_Black</value>
+    <value type="QString">XDG_DATA_DIRS=/opt/kde4/share:/usr/share:/usr/local/share</value>
+    <value type="QString">XDG_SESSION_COOKIE=d6fe6abf3c33e8034507bbe44b0a231e-1263382366.293688-1736277383</value>
+    <value type="QString">XDM_MANAGED=method=classic</value>
+    <value type="QString">XMODIFIERS=@im=fcitx</value>
+    <value type="QString">XORG_CONFIG=--prefix=/usr --sysconfdir=/etc --localstatedir=/var --datadir=/usr/lib</value>
+    <value type="QString">XORG_PREFIX=/usr</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/stronghill/workspace/qt1/netmanager</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="buildConfiguration" type=""></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
